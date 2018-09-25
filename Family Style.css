@@ -1,0 +1,15 @@
+body {background: darkslategray;
+    color: white}
+
+body {font-family: 'montserrat', sans-serif}
+
+h1 {font-size 200%;
+    font-weight: bolder;
+    text-align: center}
+
+h2 {text-align: center}
+
+h3 {text-align: center;
+    font-weight: bold}
+
+h6 {text-align: center}
